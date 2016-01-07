@@ -1,0 +1,28 @@
+name: Jeremy Olander
+favicon: null
+layout_spectrum: 0.610058416845277
+typography_spectrum: 0.5562575259245932
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.41482326854020357
+  lightness: 0.9815340454224497
+  saturation: 0.4599707401357591
+  rhythmicContrast: 0.13988173729740083
+purpose: []
